@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  research-paper-ai:
+    build: .
+    container_name: research-paper-simplifier
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    restart: unless-stopped
