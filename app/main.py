@@ -16,7 +16,7 @@ Entry point for the Research Paper Simplifier API
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from app.config import settings
+from app.core.config import settings
 from app.core.middleware import log_requests
 from app.api.v1.router import api_router
 

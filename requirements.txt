@@ -2,50 +2,56 @@
 # Core API & Server
 # =========================
 fastapi>=0.110.0
-uvicorn>=0.29.0
-pydantic>=2.6.1
-python-multipart>=0.0.9
-python-dotenv==1.0.0
+uvicorn>=0.40.0
+pydantic>=2.11.0
+python-multipart>=0.0.22
+python-dotenv>=1.1.0
 loguru>=0.7.2
 
 # =========================
 # PDF Parsing & Ingestion
 # =========================
-pymupdf>=1.23.25
-pdfplumber>=0.11.4
-unstructured>=0.12.6
+pymupdf>=1.24.0
+pdfplumber>=0.11.9
+
+# NOTE:
+# unstructured is HEAVY and optional
+# enable only if you truly need HTML / DOCX / PPT
+# unstructured>=0.12.6
 
 # =========================
 # Utils
 # =========================
-numpy>=1.26.4
-tqdm>=4.66.2
-regex>=2023.12.25
+numpy>=2.0.0
+tqdm>=4.67.0
+regex>=2024.9.11
 
 # =========================
-# Vector Store (FAISS ONLY)
+# Vector Store
 # =========================
-faiss-cpu>=1.8.0
+# CrewAI already installs chromadb
+# Do NOT mix FAISS + chromadb unless required
+chromadb>=1.1.0
 
 # =========================
-# LangChain (SAFE SET)
+# LangChain (Minimal & Safe)
 # =========================
-langchain-core>=0.1.43
-langchain-text-splitters>=0.0.1
+langchain-core>=0.1.52
+langchain-text-splitters>=0.3.0
 
 # =========================
 # LLM Providers
 # =========================
-openai>=1.12.0
+openai>=1.83.0
 tiktoken>=0.6.0
 
 # =========================
-# Multi-Agent
+# Multi-Agent Framework
 # =========================
-crewai==0.28.8
+crewai==1.9.3
 
 # =========================
-# Monitoring
+# Monitoring / Tracing
 # =========================
 langfuse>=2.25.1
 
@@ -55,9 +61,9 @@ langfuse>=2.25.1
 diskcache>=5.6.3
 
 # =========================
-# Dev
+# Dev / Quality
 # =========================
-pytest>=8.0.2
-black>=24.2.0
+pytest>=8.3.0
+black>=24.4.0
 isort>=5.13.2
-mypy>=1.8.0
+mypy>=1.10.0
