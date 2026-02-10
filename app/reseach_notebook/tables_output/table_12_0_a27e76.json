@@ -1,0 +1,22 @@
+{
+  "table_id": "table_12_0_a27e76",
+  "page": 12,
+  "bbox": [
+    91.647,
+    229.89,
+    518.111,
+    244.98499999999993
+  ],
+  "rows": 1,
+  "columns": 1,
+  "extraction_method": "camelot_stream",
+  "confidence": 0.9,
+  "needs_review": false,
+  "table_data": [
+    {
+      "0": "References"
+    }
+  ],
+  "embedding_text": "Columns:\n- 0\n\nRows:\nRow 1: References",
+  "image_path": "tables_output\\table_12_0_a27e76.png"
+}

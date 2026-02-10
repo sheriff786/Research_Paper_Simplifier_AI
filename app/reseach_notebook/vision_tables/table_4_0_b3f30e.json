@@ -1,0 +1,15 @@
+{
+  "table_id": "table_4_0_b3f30e",
+  "page": 4,
+  "image_path": "vision_tables/table_4_0_b3f30e.png",
+  "rows_detected": 5,
+  "columns_detected": 0,
+  "cells": [
+    {
+      "bbox": [
+        [
+          0,
+          0
+        ],
+        [
+          

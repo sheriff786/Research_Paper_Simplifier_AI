@@ -1,0 +1,22 @@
+{
+  "table_id": "table_11_1_cba398",
+  "page": 11,
+  "bbox": [
+    125.647,
+    490.453,
+    481.62,
+    505.66125
+  ],
+  "rows": 1,
+  "columns": 1,
+  "extraction_method": "camelot_stream",
+  "confidence": 0.9,
+  "needs_review": false,
+  "table_data": [
+    {
+      "0": "Phi-3.5-Vision-4B fails in following instruction on Chinese document-level pages."
+    }
+  ],
+  "embedding_text": "Columns:\n- 0\n\nRows:\nRow 1: Phi-3.5-Vision-4B fails in following instruction on Chinese document-level pages.",
+  "image_path": "tables_output\\table_11_1_cba398.png"
+}

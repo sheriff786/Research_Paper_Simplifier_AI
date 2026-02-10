@@ -1,0 +1,22 @@
+{
+  "table_id": "table_10_0_eec8e4",
+  "page": 10,
+  "bbox": [
+    116.071,
+    225.06600000000003,
+    491.196,
+    240.2214
+  ],
+  "rows": 1,
+  "columns": 1,
+  "extraction_method": "camelot_stream",
+  "confidence": 0.9,
+  "needs_review": false,
+  "table_data": [
+    {
+      "0": "Document extraction"
+    }
+  ],
+  "embedding_text": "Columns:\n- 0\n\nRows:\nRow 1: Document extraction",
+  "image_path": "tables_output\\table_10_0_eec8e4.png"
+}

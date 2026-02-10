@@ -67,3 +67,46 @@ pytest>=8.3.0
 black>=24.4.0
 isort>=5.13.2
 mypy>=1.10.0
+# =========================
+# Jupyter / Interactive
+# =========================
+
+# =========================
+# PDF Table Extraction
+# =========================
+camelot-py[cv]
+openpyxl
+tabulate
+
+# =========================
+# PDF Image Processing
+# =========================
+pdf2image
+Pillow
+
+# =========================
+# LangChain & LLM Extras
+# =========================
+crewai-tools
+langchain
+langchain-openai
+langchain-community
+
+# =========================
+# Vector DB & Embeddings
+# =========================
+faiss-cpu
+sentence-transformers
+
+# =========================
+# Local ML / Embeddings
+# =========================
+transformers
+torch
+
+# =========================
+# Data Processing & Visualization
+# =========================
+pandas
+matplotlib
+seaborn

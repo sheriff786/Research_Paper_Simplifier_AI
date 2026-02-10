@@ -1,0 +1,530 @@
+{
+  "paper_id": "data/research_paper/Generative_Artificial_Intelligence_in_Architecture.pdf",
+  "processed_at": "2026-02-11T04:02:04.382116",
+  "paper_metadata": {
+    "title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review",
+    "author": "Shoeb Ahmed Memon, Waled Shehata, Steve Rowlinson and Riza Yosia Sunindijo",
+    "pages": 19,
+    "created": "D:20250627220335+08'00'"
+  },
+  "extraction_stats": {
+    "text_chunks": 79,
+    "tables": 2,
+    "figures": 12,
+    "total_documents": 93
+  },
+  "content": {
+    "text_chunks": [
+      {
+        "type": "text",
+        "chunk_id": "chunk_0000",
+        "content": "Generative artificial intelligence (GenAI) is a tool that can be applied to virtually all aspects\nof business and life, including the construction industry. However, the adoption of GenAI\nin the construction industry, as with other innovations, is slow, and many of its applications\nthus far have been rather simplistic or failed to deliver a useful, credible output. There is\na limited understanding of how GenAI is adopted in current practice and its potential to\nimprove future practice in architecture, engineering, construction, and operations (AECO).\nUsing a systematic literature review approach, this study aims to map the current issues\nin applying GenAI. The literature review initially identified 1013 peer-reviewed articles\nfrom ProQuest, Scopus, and Web of Science. The articles were further filtered based on\nspecific criteria, resulting in 28 articles being retained for thematic analysis. The findings\nshow a cluster of patterns in which GenAI is being adopted and shows promise. The",
+        "section": "abstract",
+        "chunk_index": 0,
+        "metadata": {
+          "word_count": 151,
+          "char_count": 999,
+          "paper_title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review"
+        },
+        "references_tables": [],
+        "references_figures": []
+      },
+      {
+        "type": "text",
+        "chunk_id": "chunk_0001",
+        "content": "specific criteria, resulting in 28 articles being retained for thematic analysis. The findings\nshow a cluster of patterns in which GenAI is being adopted and shows promise. The\ncore themes identified are as follows: (1) project brief, (2) architectural design, (3) building\ninformation modelling, (4) structural design, (5) construction and demolition, (6) operations,\nand (7) urban governance. A typical trend noted in the AECO industry has been training\nAI models that achieve quicker results, improve quality, and use fewer resources.\nKeywords: built environment; generative artificial intelligence; construction; AECO",
+        "section": "abstract",
+        "chunk_index": 1,
+        "metadata": {
+          "word_count": 88,
+          "char_count": 621,
+          "paper_title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review"
+        },
+        "references_tables": [],
+        "references_figures": []
+      },
+      {
+        "type": "text",
+        "chunk_id": "chunk_0002",
+        "content": "Construction as an industry is notorious for its slow adoption of innovation. Despite\nusing computer-aided technologies for many decades in different stages of the project\nlifecycle, the industry is still slow in implementing cutting-edge technologies and remains\ntraditional in its ways of working. Coupled with a considerable increase in administrative\nrequirements and expectations, the productivity of the industry suffers.\nThere has been an increased interest in artificial intelligence (AI), including GenAI, to\nimprove processes in the workplace [1]. Organisations face a dilemma in either adopting\na structured approach towards GenAI or other tools that elevate productivity. Part of\nthe problem lies in how the construction industry is organised, unlike business models\nin other sectors, such as manufacturing, which make the most of digital technologies in\nlean production. Opportunities for the construction industry to follow suit are limited due",
+        "section": "introduction",
+        "chunk_index": 0,
+        "metadata": {
+          "word_count": 138,
+          "char_count": 958,
+          "paper_title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review"
+        },
+        "references_tables": [],
+        "references_figures": []
+      },
+      {
+        "type": "text",
+        "chunk_id": "chunk_0003",
+        "content": "in other sectors, such as manufacturing, which make the most of digital technologies in\nlean production. Opportunities for the construction industry to follow suit are limited due\nto its project-based nature [2]. For instance, despite its advantages, building information\nmodelling (BIM) has taken decades to integrate into the core business models of major\nconstruction organisations. The BIM maturity level in the construction industry is also still\nrelatively low.\nBuildings 2025, 15, 2270\nhttps://doi.org/10.3390/buildings15132270\nBuildings 2025, 15, 2270\n2 of 19\nExplaining the attention given to GenAI’s role in the construction industry, Hallo and\nNguyen [3] postulate that its widespread use could lead to smart design and infrastructure,\nwhich promotes improvements and efficiency throughout the construction project lifecycle,\nfrom inception and design to bidding, financing, transportation, operation, and asset\nmanagement [4].",
+        "section": "introduction",
+        "chunk_index": 1,
+        "metadata": {
+          "word_count": 130,
+          "char_count": 938,
+          "paper_title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review"
+        },
+        "references_tables": [],
+        "references_figures": []
+      },
+      {
+        "type": "text",
+        "chunk_id": "chunk_0004",
+        "content": "which promotes improvements and efficiency throughout the construction project lifecycle,\nfrom inception and design to bidding, financing, transportation, operation, and asset\nmanagement [4].\nCurrently, the GenAI literature in the AECO sector is predominantly occupied with\ndeveloping discipline-specific courses and how it could benefit education. Jelodar [5]\nhighlighted applications in construction practice, especially in maintenance and training\nareas. Liao et al. [6] highlighted the improved effectiveness of building structural design\nthrough GenAI. Structural designs show promising outcomes when a finite element model\nis provided to ChatGPT [7]. Finite element modelling involves complex computational\nanalysis for building design under various loading conditions [8]. It highlights the sophisti-\ncation of GenAI models to understand and analyse complex designs. The research on the\nadoption of GenAI in the AECO sector is progressing but remains fragmented.",
+        "section": "introduction",
+        "chunk_index": 2,
+        "metadata": {
+          "word_count": 131,
+          "char_count": 969,
+          "paper_title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review"
+        },
+        "references_tables": [],
+        "references_figures": []
+      }
+    ],
+    "tables": [
+      {
+        "type": "table",
+        "table_id": "table_0000",
+        "page": 17,
+        "content": {
+          "raw_data": [
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ],
+          "columns": [
+            0,
+            1
+          ],
+          "csv": "0,1\r\n,\r\n,\r\n,\r\n,\r\n,\r\n,\r\n",
+          "markdown": "|    | 0   | 1   |\n|---:|:----|:----|\n|  0 |     |     |\n|  1 |     |     |\n|  2 |     |     |\n|  3 |     |     |\n|  4 |     |     |\n|  5 |     |     |"
+        },
+        "metadata": {
+          "rows": 6,
+          "columns": 2,
+          "extraction_method": "camelot"
+        },
+        "ai_summary": "SUMMARY: The table appears to be empty, with no data present in any of the cells. This indicates that there may be a lack of information or that the data has not been populated yet.\n\nINSIGHTS:\n- The table has no entries, suggesting that it may require data input or further investigation to understand its intended use.\n- Without any data, no trends or patterns can be identified from this table.\n- The absence of information limits the ability to draw any conclusions or insights from the table.",
+        "referenced_by_chunks": [
+          "chunk_0010",
+          "chunk_0014",
+          "chunk_0016",
+          "chunk_0017",
+          "chunk_0019",
+          "chunk_0020",
+          "chunk_0034",
+          "chunk_0043"
+        ]
+      },
+      {
+        "type": "table",
+        "table_id": "table_0001",
+        "page": 22,
+        "content": {
+          "raw_data": [
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ]
+          ],
+          "columns": [
+            0,
+            1,
+            2
+          ],
+          "csv": "0,1,2\r\n,,\r\n,,\r\n,,\r\n,,\r\n,,\r\n,,\r\n,,\r\n,,\r\n,,\r\n",
+          "markdown": "|    | 0   | 1   | 2   |\n|---:|:----|:----|:----|\n|  0 |     |     |     |\n|  1 |     |     |     |\n|  2 |     |     |     |\n|  3 |     |     |     |\n|  4 |     |     |     |\n|  5 |     |     |     |\n|  6 |     |     |     |\n|  7 |     |     |     |\n|  8 |     |     |     |"
+        },
+        "metadata": {
+          "rows": 9,
+          "columns": 3,
+          "extraction_method": "camelot"
+        },
+        "referenced_by_chunks": [
+          "chunk_0010",
+          "chunk_0014",
+          "chunk_0016",
+          "chunk_0017",
+          "chunk_0019",
+          "chunk_0020",
+          "chunk_0034",
+          "chunk_0043"
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "type": "figure",
+        "figure_id": "fig_0000",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 29506,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "ai_description": "1. **Type of Figure**: This is a dot-and-whisker plot, which visually represents estimates of COVID effects across different groups.\n\n2. **What it Shows**: The figure displays the estimated effects of COVID-19 on various demographic and socio-economic groups. Each line indicates the range of the effect, with the dots marking the mean estimate for each group.\n\n3. **Key Elements or Data Points**:\n   - The overall mean effect for \"All\" is shown towards a mid-range on the x-axis.\n   - Specific groups such as \"High Income,\" \"Women,\" and \"First Gen\" have varying effects that are distinct from one another.\n   - The \"2020 Cohort\" and \"2021+ Cohort\" show minimal to no effect, depicted as small dots at the lower end of the scale.",
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0001",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 30729,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0002",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 30119,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0003",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 31474,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0004",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 29271,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0005",
+        "page": 17,
+        "metadata": {
+          "size_bytes": 30798,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0006",
+        "page": 22,
+        "metadata": {
+          "size_bytes": 30448,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0007",
+        "page": 22,
+        "metadata": {
+          "size_bytes": 33069,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0008",
+        "page": 22,
+        "metadata": {
+          "size_bytes": 29003,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0009",
+        "page": 22,
+        "metadata": {
+          "size_bytes": 28916,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0010",
+        "page": 22,
+        "metadata": {
+          "size_bytes": 29138,
+          "aspect_ratio": 1.3755458515283843
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      },
+      {
+        "type": "figure",
+        "figure_id": "fig_0011",
+        "page": 23,
+        "metadata": {
+          "size_bytes": 56486,
+          "aspect_ratio": 1.3755364806866952
+        },
+        "referenced_by_chunks": [
+          "chunk_0006",
+          "chunk_0007",
+          "chunk_0008",
+          "chunk_0018",
+          "chunk_0019",
+          "chunk_0021",
+          "chunk_0023",
+          "chunk_0027",
+          "chunk_0028",
+          "chunk_0029",
+          "chunk_0031",
+          "chunk_0041",
+          "chunk_0044",
+          "chunk_0045"
+        ]
+      }
+    ]
+  },
+  "vectorstore": {
+    "path": "vectorstore_multimodal",
+    "embedding_model": "text-embedding-3-small"
+  }
+}

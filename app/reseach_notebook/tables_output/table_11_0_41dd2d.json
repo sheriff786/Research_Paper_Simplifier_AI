@@ -1,0 +1,18 @@
+{
+  "table_id": "table_11_0_41dd2d",
+  "page": 11,
+  "bbox": [
+    90.402,
+    244.83400000000003,
+    516.865,
+    259.92900000000003
+  ],
+  "rows": 0,
+  "columns": 13,
+  "extraction_method": "pdfplumber",
+  "confidence": 0.9,
+  "needs_review": false,
+  "table_data": [],
+  "embedding_text": "Columns:\n- Ocean-OCR(Ours)\n- 0.057\n- 0.062\n- 0.937\n- 0.962\n- 0.932\n- 0.956\n- 0.956\n- 0.974\n- 0.906\n- 0.912\n- 0.945\n- 0.916\n\nRows:",
+  "image_path": "tables_output\\table_11_0_41dd2d.png"
+}
