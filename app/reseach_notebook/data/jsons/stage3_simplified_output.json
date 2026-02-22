@@ -1,27 +1,25 @@
+{
   "paper_id": "data/research_paper/Generative_Artificial_Intelligence_in_Architecture.pdf",
-  "processed_at": "2026-02-19T12:52:26.100280",
+  "processed_at": "2026-02-22T15:07:37.900057",
   "original_paper": {
     "title": "Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Systematic Review",
     "authors": "Shoeb Ahmed Memon, Waled Shehata, Steve Rowlinson and Riza Yosia Sunindijo",
     "pages": 19
   },
   "simplification": {
-    "full_output": "STRENGTHS:\n✅ The paper provides a comprehensive systematic literature review, synthesizing findings from 1,013 articles down to 28 relevant studies, which adds rigor to the analysis and ensures a focused examination of GenAI applications in the AECO sector.  \n✅ The identification of seven core themes where GenAI can be applied offers valuable insights into specific areas of potential improvement in the construction industry, making the findings actionable for practitioners.  \n✅ The discussion on the slow adoption of GenAI highlights a critical issue in the construction industry, effectively framing the context for the research and underscoring the need for innovation in traditional practices.  \n✅ The paper emphasizes the potential benefits of GenAI, such as improved quality, efficiency, and resource management, which can inspire stakeholders to consider integrating these technologies into their workflows.  \n✅ The inclusion of various databases (ProQuest, Scopus, Web of Science) for literature sourcing enhances the credibility and breadth of the review, ensuring a diverse range of perspectives is considered.\n\nWEAKNESSES:\n⚠️ The study's reliance on only 28 articles after filtering may limit the generalizability of the findings, as this small sample size may not capture the full spectrum of GenAI applications or the challenges faced in the construction industry.  \n⚠️ The paper does not sufficiently address potential biases or gaps in the existing literature, which could affect the conclusions drawn about the effectiveness and challenges of GenAI adoption, leaving readers with an incomplete understanding of the landscape.  \n⚠️ The discussion on the organizational structure of the construction industry could be expanded to provide deeper insights into specific barriers to GenAI adoption, which would enhance the paper's practical relevance.  \n⚠️ The implications of the findings for future research are not clearly articulated, which could leave readers uncertain about the next steps in exploring GenAI in the AECO sector.  \n⚠️ The paper could benefit from a more detailed exploration of case studies or examples of successful GenAI implementations in the construction industry to illustrate its potential impact concretely.\n\nIMPACT:\nThis research is significant for construction industry professionals, policymakers, and technology developers, as it highlights the transformative potential of GenAI in enhancing productivity and efficiency in construction practices. By understanding the areas where GenAI can be effectively applied, stakeholders can make informed decisions about technology adoption, ultimately leading to better project outcomes and more sustainable urban development.",
+    "full_output": "TL;DR: Generative artificial intelligence (GenAI) is a tool that can be applied to virtually all aspects\nof business and life, including the construction industry. However, the adoption of GenAI\nin the construction industry, as with other innovations, is slow, and many of its applications\nthus far have bee...\n\nSUMMARY:\nThis paper presents research on Generative Artificial Intelligence in Architecture, Engineering, Construction, and Operations: A Sys. The study employs \nsystematic methodology to analyze the topic and presents key findings.\n\nConstruction as an industry is notorious for its slow adoption of innovation. Despite\nusing computer-aided technologies for many decades in different stages of the project\nlifecycle, the industry is still slow in implementing cutting-edge technologies and remains\ntraditional in its ways of working. Coupled with a considerable increase in administrative\nrequirements and expectations, the productivity of the industry suffers.\nThere has been an increased interest in artificial intelligence (AI), in...\n\nKEY POINTS:\n- Comprehensive analysis conducted\n- Main themes and patterns identified\n- Practical implications discussed\n\nFor complete details, refer to the full research paper.",
     "agents_used": [
-      "Paper Understanding Expert",
-      "Science Communication Specialist",
-      "Quality Control Reviewer"
+      "Minimal Fallback Agent"
     ],
     "tasks_completed": [
-      "TL;DR Generation",
-      "Deep Understanding",
-      "Abstract Simplification",
-      "Critical Analysis"
+      "Basic Summary Generation",
+      "Abstract Simplification"
     ]
   },
   "metadata": {
-    "model_used": "gpt-4o-mini",
-    "processing_time": "~2-3 minutes",
-    "target_reading_level": "Grade 8"
+    "model_used": "fallback-minimal",
+    "processing_time": "N/A",
+    "target_reading_level": "Grade 8",
+    "note": "This is a minimal Stage 3 output. Run the Stage 3 notebook for full AI simplification."
   }
 }
